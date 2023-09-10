@@ -1,6 +1,7 @@
 # actionrecognition
 <h2>Action Recognition using ConvLSTM approach</h2>
-<img src="![concLSTM](https://github.com/deepu3007/actionrecognition/assets/116485152/b5415378-4b08-409b-b1b2-c95cfee19ecb)"
+![concLSTM](https://github.com/deepu3007/actionrecognition/assets/116485152/38ba0bd4-159a-4b1a-b5d5-f204101baeb6)
+
 
 <p>
   Trying to implement and checkout or playing with convLSTM for video action recognition. This is my first try and the code is taken from kaggle
@@ -26,7 +27,7 @@ There are some hardware constraints to run this code,  I tried to run on google 
 <h3>
   About the Model
 </h3>
-<img src="![convlstm_model_structure_plot](https://github.com/deepu3007/actionrecognition/assets/116485152/8e29cdd5-e4ea-4633-be35-cc1c67d724be)">
+![convlstm_model_structure_plot](https://github.com/deepu3007/actionrecognition/assets/116485152/8e29cdd5-e4ea-4633-be35-cc1c67d724be)
 <p>
   The convLSTM constructed has the following layers and their parameters sequentially
 
